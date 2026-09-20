@@ -1,0 +1,6 @@
+{
+  "name": "TeamForge",
+  "description": "Student project and hackathon team-building platform to find teammates based on skills and interests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
